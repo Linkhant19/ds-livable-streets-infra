@@ -52,7 +52,9 @@ Last Name: Ahmed<br>
 Email: daniyala@bu.edu<br>
 <br>
 Recommended Next Steps: 
-1. Read and review our Final Report
+1. Read and review our Final Report<br>
+  Here is the link to our Final Report: https://docs.google.com/document/d/18YHNtx7Yj_Huh5j6NxWjMGkZW3RRdjaGaJQmQx8iCi0/edit?usp=sharing
+
 2. Follow our future scope section
 3. Get in contact with us!
 
