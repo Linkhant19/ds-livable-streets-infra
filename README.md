@@ -30,27 +30,27 @@ https://drive.google.com/drive/u/0/folders/15b5HJoFKurT-vfyPrqGEq6MefQEBCste
 
 
 Contact Information: 
-<n>
-Role: Team Rep, Team Member <n>
-First Name: Lin Khant<n>
-Last Name: Ko<n>
-Email: lkk19@bu.edu<n>
-<n>
-Role: Team Member<n>
-First Name: Kyle<n>
-Last Name: Yung<n>
-Email: yungk@bu.edu<n>
-<n>
-Role: Team Member<n>
-First Name: Stone<n>
-Last Name: Harris<n>
-Email: stoneh@bu.edu<n>
-<n>
-Role: Team Member<n>
-First Name: Daniyal<n>
-Last Name: Ahmed<n>
-Email: daniyala@bu.edu<n>
-<n>
+<br>
+Role: Team Rep, Team Member <br>
+First Name: Lin Khant<br>
+Last Name: Ko<br>
+Email: lkk19@bu.edu<br>
+<br>
+Role: Team Member<br>
+First Name: Kyle<br>
+Last Name: Yung<br>
+Email: yungk@bu.edu<br>
+<br>
+Role: Team Member<br>
+First Name: Stone<br>
+Last Name: Harris<br>
+Email: stoneh@bu.edu<br>
+<br>
+Role: Team Member<br>
+First Name: Daniyal<br>
+Last Name: Ahmed<br>
+Email: daniyala@bu.edu<br>
+<br>
 Recommended Next Steps: 
 1. Read and review our Final Report
 2. Follow our future scope section
